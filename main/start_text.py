@@ -21,9 +21,7 @@ async def start(bot, msg, cb=True):
     txt=f"ʜᴇʏ {msg.from_user.mention} 👋🏻 ɪ ᴀᴍ ꜱɪᴍᴘʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀꜱᴏɴʟ ᴜꜱᴀɢᴇ♻️. 
 \nᴊᴜꜱᴛ ꜱᴇɴᴅ ᴀ ꜰɪʟᴇ ᴀɴᴅ ᴍᴇɴᴛɪᴏɴ ꜰɪʟᴇ /rename YOUR FILE NAME 
 \nɴᴏᴡ ʏᴏᴜʀ ꜰɪʟᴇ ɪꜱ ʀᴇɴᴀᴍᴇ👍🏻
-
 \n👨🏻‍💻ᴅᴇᴠᴇʟᴏᴘᴇʀ: <b><a href=https://telegram.me/KING_WMP>Chethmina Kavishan</a></b>
-
 \n©ᵖᵒʷᵉʳᵉᵈ ᵇʸ <b><a href=https://telegram.me/CK4U2>CK4U2</a></b>"                                     
     button= [[
         InlineKeyboardButton("🤖 Bot Updates", url="https://t.me/CK4U2")
